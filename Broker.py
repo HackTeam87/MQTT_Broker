@@ -1,7 +1,7 @@
 import paho.mqtt.subscribe as subscribe
 from geopy import distance
 
-#Локація Університету Тедекомунікацій
+#Локація Університету Телекомунікацій
 BASE_LOC = (50.42887501136511, 30.47598202502631)
 
 def CALCULATE_LOC(INPUT_LOC):
