@@ -1,0 +1,4 @@
+colorama==0.4.5
+geographiclib==1.52
+geopy==2.2.0
+paho-mqtt==1.6.1
